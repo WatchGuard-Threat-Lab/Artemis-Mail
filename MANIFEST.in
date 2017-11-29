@@ -1,0 +1,6 @@
+include *.py
+include LICENSE
+include README.md
+include CHAGELOG.rst
+recursive-include artemis *
+global-exclude *.pyc
